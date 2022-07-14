@@ -1,6 +1,7 @@
 import logo from './logo.svg';
-import './App.css';
-import '/HornedBeast.js';
+import App from './App.css';
+import HornedBeast from '/HornedBeast.js';
+import data from './data.json';
 
 function App() {
   return (
